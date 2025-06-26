@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\AbbreviateATwoWordNameEX\AbbreviateATwoWordNameEX\bin\Debug\net8.0\AbbreviateATwoWordNameEX.exe
+C:\Users\louag\source\repos\AbbreviateATwoWordNameEX\AbbreviateATwoWordNameEX\bin\Debug\net8.0\AbbreviateATwoWordNameEX.deps.json
+C:\Users\louag\source\repos\AbbreviateATwoWordNameEX\AbbreviateATwoWordNameEX\bin\Debug\net8.0\AbbreviateATwoWordNameEX.runtimeconfig.json
+C:\Users\louag\source\repos\AbbreviateATwoWordNameEX\AbbreviateATwoWordNameEX\bin\Debug\net8.0\AbbreviateATwoWordNameEX.dll
+C:\Users\louag\source\repos\AbbreviateATwoWordNameEX\AbbreviateATwoWordNameEX\bin\Debug\net8.0\AbbreviateATwoWordNameEX.pdb
+C:\Users\louag\source\repos\AbbreviateATwoWordNameEX\AbbreviateATwoWordNameEX\obj\Debug\net8.0\AbbreviateATwoWordNameEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\AbbreviateATwoWordNameEX\AbbreviateATwoWordNameEX\obj\Debug\net8.0\AbbreviateATwoWordNameEX.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\AbbreviateATwoWordNameEX\AbbreviateATwoWordNameEX\obj\Debug\net8.0\AbbreviateATwoWordNameEX.AssemblyInfo.cs
+C:\Users\louag\source\repos\AbbreviateATwoWordNameEX\AbbreviateATwoWordNameEX\obj\Debug\net8.0\AbbreviateATwoWordNameEX.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\AbbreviateATwoWordNameEX\AbbreviateATwoWordNameEX\obj\Debug\net8.0\AbbreviateATwoWordNameEX.dll
+C:\Users\louag\source\repos\AbbreviateATwoWordNameEX\AbbreviateATwoWordNameEX\obj\Debug\net8.0\refint\AbbreviateATwoWordNameEX.dll
+C:\Users\louag\source\repos\AbbreviateATwoWordNameEX\AbbreviateATwoWordNameEX\obj\Debug\net8.0\AbbreviateATwoWordNameEX.pdb
+C:\Users\louag\source\repos\AbbreviateATwoWordNameEX\AbbreviateATwoWordNameEX\obj\Debug\net8.0\AbbreviateATwoWordNameEX.genruntimeconfig.cache
+C:\Users\louag\source\repos\AbbreviateATwoWordNameEX\AbbreviateATwoWordNameEX\obj\Debug\net8.0\ref\AbbreviateATwoWordNameEX.dll
